@@ -3,5 +3,13 @@ pandas
 numpy
 plotly
 scikit-learn
-shap
+xgboost
 matplotlib
+wordcloud
+arabic-reshaper
+python-bidi
+textblob
+shap
+scipy
+networkx
+nltk
